@@ -1,1 +1,1 @@
-gisdirk.github.io/modify_maps_svg/
+https://gisdirk.github.io/Canada-SVG/
